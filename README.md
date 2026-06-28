@@ -7,6 +7,7 @@ El objetivo principal es transformar datos históricos operativos en un activo e
 Estructura Operativa del Proyecto
 El desarrollo del sistema se divide en cinco módulos secuenciales, pero la arquitectura se mantiene limpia con nombres claros
 
+
 Módulo 1: Infraestructura de Datos y Análisis Exploratorio
 Establecimiento de las bases de datos y auditoría inicial de la información.
 
