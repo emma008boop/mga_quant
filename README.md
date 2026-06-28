@@ -6,7 +6,9 @@ A través de un enfoque puramente cuantitativo, el sistema simula de extremo a e
 
 El objetivo principal de la plataforma es transformar datos históricos operativos en un activo estratégico para la toma de decisiones, garantizando la estabilidad y rentabilidad del portafolio mediante la aplicación de rigor estadístico y algoritmos predictivos avanzados.
 
----
+
+Módulo 1: Infraestructura de Datos y Análisis Exploratorio
+Establecimiento de las bases de datos y auditoría inicial de la información.
 
 ## Competencias Técnicas Demostradas en el Proyecto
 
